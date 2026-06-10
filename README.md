@@ -38,6 +38,7 @@ Region
 Category
 
 Project Workflow
+
 1️⃣ Data Collection
 Import retail sales dataset.
 Validate data quality and completeness.
@@ -67,6 +68,7 @@ Trend visualizations.
 Business performance monitoring.
 
 Key Performance Indicators (KPIs)
+
 Total Revenue
 Total Profit
 Total Orders
@@ -99,7 +101,7 @@ Analyzed customer purchasing patterns.
 Evaluated monthly sales growth trends.
 Measured overall business performance using KPIs.
 
-Repository Structure
+Repository Structure:
 Retail-Sales-Analytics-Dashboard
 │
 ├── data
