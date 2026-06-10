@@ -36,30 +36,36 @@ Profit
 Quantity
 Region
 Category
+
 Project Workflow
 1️⃣ Data Collection
 Import retail sales dataset.
 Validate data quality and completeness.
+
 2️⃣ Data Cleaning
 Handle missing values.
 Remove duplicates.
 Standardize column formats.
 Convert data types.
+
 3️⃣ Exploratory Data Analysis (EDA)
 Sales trend analysis.
 Profitability analysis.
 Category-wise performance.
 Customer behavior analysis.
+
 4️⃣ SQL Analysis
 Revenue calculations.
 Top product identification.
 Customer insights.
 Regional performance analysis.
+
 5️⃣ Dashboard Development
 KPI cards.
 Interactive filters.
 Trend visualizations.
 Business performance monitoring.
+
 Key Performance Indicators (KPIs)
 Total Revenue
 Total Profit
@@ -92,6 +98,7 @@ Determined regions contributing maximum profit.
 Analyzed customer purchasing patterns.
 Evaluated monthly sales growth trends.
 Measured overall business performance using KPIs.
+
 Repository Structure
 Retail-Sales-Analytics-Dashboard
 │
