@@ -102,6 +102,7 @@ Evaluated monthly sales growth trends.
 Measured overall business performance using KPIs.
 
 Repository Structure:
+
 Retail-Sales-Analytics-Dashboard
 │
 ├── data
@@ -125,6 +126,7 @@ Retail-Sales-Analytics-Dashboard
 Dashboard Preview
 
 {
+
 	displayname = "Employees"
 	success message = "Data Added Successfully!"
 	Section
@@ -256,20 +258,6 @@ Dashboard Preview
 	}
 }
 
-
-Clone the repository:
-
-git clone https://github.com/yourusername/Retail-Sales-Analytics-Dashboard.git
-
-Navigate to project folder:
-
-cd Retail-Sales-Analytics-Dashboard
-
-Install dependencies:
-
-pip install -r requirements.txt
-Business Value
-
 This dashboard enables organizations to:
 
 Monitor business performance efficiently.
@@ -291,7 +279,8 @@ Sales Forecasting using Machine Learning
 Customer Churn Prediction
 Automated Reporting
 Real-Time Data Integration
-Cloud Deployment using AWS
+Cloud Deployment using AWS.
+
 Author
 Vidya Shree L
 
