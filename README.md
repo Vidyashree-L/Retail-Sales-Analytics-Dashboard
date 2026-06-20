@@ -284,4 +284,4 @@ Cloud Deployment using AWS.
 Author
 Vidya Shree L
 
-Aspiring Data Analyst | Python | SQL | Power BI | Data Scienceform employees
+Aspiring Data Analyst | Python | SQL | Power BI | Data Science
